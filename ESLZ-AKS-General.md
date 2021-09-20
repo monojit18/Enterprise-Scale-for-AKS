@@ -1,5 +1,13 @@
 # ESLZ for AKS
 
+![aks-eslz-architecture](./Scenarios/Assets/aks-eslz-architecture.png)
+
+
+
+## High Level Ref Arch.
+
+![AKS-Ref-Achitecture-v2.2](./Scenarios/Assets/AKS-Ref-Achitecture-v2.2.png)
+
 
 
 ## Enterprise enrollment
@@ -9,6 +17,8 @@
 - Cost vs Benefits
 
 ## Identity and access management
+
+![AKS-Components](./Scenarios/Assets/AKS-Components.png)
 
 - Managed Identity or Service Principal
 
